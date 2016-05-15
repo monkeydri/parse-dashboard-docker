@@ -142,12 +142,12 @@ To do so, update your `parse-dashboard-config.json` configuration file to match 
      {
        "user":"user1",
        "pass":"pass1",
-       "apps": [{"appId1": "myAppId1"}, {"appId2": "myAppId2"}]
+       "apps": [{"appId": "myAppId1"}, {"appId": "myAppId2"}]
      },
      {
        "user":"user2",
        "pass":"pass2",
-       "apps": [{"appId1": "myAppId1"}]
+       "apps": [{"appId": "myAppId1"}]
      }  ]
 }
 ```
